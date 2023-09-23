@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "968368559474",
+    "firebase_url": "https://whatsalae-default-rtdb.firebaseio.com",
+    "project_id": "whatsalae",
+    "storage_bucket": "whatsalae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968368559474:android:5144b1e412f06f9f3979eb",
+        "android_client_info": {
+          "package_name": "com.aulas.whatsalae"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeEPlFF_m-dlNoK_07UeB8qOiIT87CJkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
